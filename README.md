@@ -1,0 +1,1 @@
+# xxcsgo-bot.g
